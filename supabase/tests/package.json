@@ -1,0 +1,1 @@
+{ "name": "studyhub-db-tests", "private": true, "type": "module", "description": "Runs the SQL migrations in an in-memory Postgres and tests the security rules. Run: npm install, then node rls.test.mjs", "dependencies": { "@electric-sql/pglite": "*" } }

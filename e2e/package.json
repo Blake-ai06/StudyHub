@@ -1,0 +1,7 @@
+{
+  "name": "studyhub-e2e",
+  "private": true,
+  "type": "module",
+  "description": "Browser checks for StudyHub. Run: npm install, then (in the project root) npm run build, then node public-layouts.mjs",
+  "dependencies": { "@sparticuz/chromium": "*", "puppeteer-core": "*" }
+}
